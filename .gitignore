@@ -1,0 +1,7 @@
+# ----
+# The GITIGNORE file
+# ----
+
+# Ignoring the environment and cache files
+env/
+.ipynb_checkpoints/
