@@ -4,4 +4,5 @@
 
 # Ignoring the environment and cache files
 env/
-.ipynb_checkpoints/
+jupyter_notebook/.ipynb_checkpoints/
+
